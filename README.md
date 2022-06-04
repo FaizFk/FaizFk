@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @FaizFk
-- 👀 I’m interested in programming and problem solving
-- 🌱 I’m currently learning Flutter and DSA
+- 👋 Hi, I’m Faiz Khan ,I'm studying @IET Lucknow
+- 👀 I’m interested in WebDev and AppDev
+- 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on App Development using Flutter or anything i am familiar with
 - 📫 How to reach me Just message me on [LinkedIn](https://www.linkedin.com/in/faiz-khan-4793731ba)
 
